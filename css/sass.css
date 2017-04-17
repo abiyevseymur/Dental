@@ -1,0 +1,14 @@
+.header {
+  position: relative;
+  background-image: url("../img/head1.jpg");
+  background: no-repeat;
+  background-size: 500px; }
+  .header .headlayot {
+    position: absolute;
+    top: 0;
+    max-width: 100%;
+    background: rgba(14, 99, 119, 0.3);
+    z-index: 2;
+    height: 100%; }
+
+/*# sourceMappingURL=sass.css.map */
